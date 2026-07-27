@@ -40,7 +40,7 @@ credit-card-fraud-detection/
 
 ### 1. Clone the repo and set up the environment
 ```bash
-git clone https://github.com/<your-username>/credit-card-fraud-detection.git
+git clone https://github.com/aaryan-kamdar/credit-card-fraud-detection.git
 cd credit-card-fraud-detection
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
